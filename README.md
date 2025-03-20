@@ -14,8 +14,8 @@ Follow these steps to get the frontend up and running locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone [your-repo-url]
-cd [your-project-directory]
+git clone git@github.com:vytaux/university-jobs-aggregator-frontend.git
+cd university-jobs-aggregator-frontend
 ```
 
 ### 2. Install Dependencies
